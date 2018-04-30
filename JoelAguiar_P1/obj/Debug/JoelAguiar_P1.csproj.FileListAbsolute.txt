@@ -1,0 +1,6 @@
+C:\Users\jagui\source\repos\JoelAguiar_P1\JoelAguiar_P1\bin\Debug\JoelAguiar_P1.exe
+C:\Users\jagui\source\repos\JoelAguiar_P1\JoelAguiar_P1\bin\Debug\JoelAguiar_P1.pdb
+C:\Users\jagui\source\repos\JoelAguiar_P1\JoelAguiar_P1\obj\Debug\JoelAguiar_P1.csprojResolveAssemblyReference.cache
+C:\Users\jagui\source\repos\JoelAguiar_P1\JoelAguiar_P1\obj\Debug\JoelAguiar_P1.csproj.CoreCompileInputs.cache
+C:\Users\jagui\source\repos\JoelAguiar_P1\JoelAguiar_P1\obj\Debug\JoelAguiar_P1.exe
+C:\Users\jagui\source\repos\JoelAguiar_P1\JoelAguiar_P1\obj\Debug\JoelAguiar_P1.pdb
